@@ -8,4 +8,4 @@ Founding Engineer at Al.Ta Cucina. Currently working through LLM internals from 
 
 Python · Django · PostgreSQL · React / React Native · GCP / GKE · Terraform
 
-[LinkedIn](https://www.linkedin.com/in/matteo-d-ospina/)
+[LinkedIn](https://www.linkedin.com/in/matteo-d-ospina-a6072b96/)
