@@ -2,7 +2,7 @@ I build and ship production systems, mostly in Python. Most of the code is in pr
 
 - **[altacucina.co](https://altacucina.co)**: UGC cooking platform, 6M+ annual unique users. Django, Postgres, GKE, Terraform.
 - **[petrahub.it](https://petrahub.it)**: B2B workflow platform for the Petra Molino Quaglia ecosystem. Built from concept to go-live.
-- **Olivia**: LLM-based nutrition app with a production RAG pipeline. 2,000 paying users in year one.
+- **[https://apps.apple.com/it/app/olivia-weight-loss-guide/id6745644675?l=en-GB](Olivia)**: LLM-based nutrition app with a production RAG pipeline. 2,000 paying users in year one.
 
 Founding Engineer & CTO at Al.Ta Cucina. Currently working through LLM internals from first principles.
 
